@@ -16,16 +16,20 @@
 
 **São Paulo · Cascais · Montevideo**
 
-[**skandercapital.com**](https://skandercapital.com) &nbsp;·&nbsp; [**contact@skandercapital.com**](mailto:contact@skandercapital.com)
+[**skandercapital.com**](https://skandercapital.com)
 
 </div>
 
 <br />
 
 <div align="center">
-  <img alt="Skander Ornamental Colophon" src="./assets/skander-colophon.png" width="76%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skander-colophon-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/skander-colophon-light.png" />
+    <img alt="Skander Ornamental Colophon" src="./assets/skander-colophon-light.png" width="76%" />
+  </picture>
 </div>
 
 <p align="center">
-  <sub>For informational purposes only. Intended exclusively for institutional, professional, and qualified investors in jurisdictions where permitted by law. Does not constitute investment advice, an offer, or a solicitation to buy or sell any financial instrument. Investing involves risk, including the possible loss of principal.</sub>
+  <sub>For informational purposes only. Does not constitute investment advice, an offer, or a solicitation to buy or sell any financial instrument.</sub>
 </p>
