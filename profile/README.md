@@ -26,7 +26,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/skander-colophon-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/skander-colophon-light.png" />
-    <img alt="Skander Ornamental Colophon" src="./assets/skander-colophon-light.png" width="76%" />
+    <img alt="Skander Ornamental Colophon" src="./assets/skander-colophon-light.png" width="100%" />
   </picture>
 </div>
 
